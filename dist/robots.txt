@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /services
+Allow: /quote
+Allow: /schedule
+Allow: /estimate
+Allow: /about
+Allow: /contact
+
+Sitemap: https://example.com/sitemap.xml
